@@ -99,6 +99,3 @@ This project uses the InsightFace library and ONNX model for face analysis and s
 
 ---
 
-<b> If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning: </b>
-
-<a href='https://ko-fi.com/R6R57A2ZT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
